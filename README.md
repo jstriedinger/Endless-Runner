@@ -1,8 +1,8 @@
 # Endless-Runner
-This is an Endless Runner made entirely with Visual Script on Unity, project still in development.  
-This a game of an online course I'm creating for arkde.com to teach people the basics of game development in unity without code.  
-Which is why is not only about development with Visual Script but also some basics regarding lighting, VFX graph, shader graph, postprocessing and more.
+<img width="100%" src="https://github.com/jstriedinger/Endless-Runner/blob/main/Assets/banner.jpg?raw=true">
+
+This is an 3D Endless Runner made entirely with Visual Script on Unity, as a project that will be used in arkde.com to teach game development basics without writting C# code.
+
+Besides visual script, this project covers the basic of lighting, VFX graph, shader graph, postprocessing, animation and more.
 
 See a working demo at: https://jstriedinger.itch.io/endless-runner-demo
-
-### Created by Jose Striedinger
