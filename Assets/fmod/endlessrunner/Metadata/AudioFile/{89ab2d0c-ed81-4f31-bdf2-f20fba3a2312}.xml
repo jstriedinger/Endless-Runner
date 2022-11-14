@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{89ab2d0c-ed81-4f31-bdf2-f20fba3a2312}">
+		<property name="assetPath">
+			<value>UI click/ESM_Knife_Stab_Impact_2_Sound_FX_Military_Hit.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.15784580498866213</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f81b12c5-f51f-4518-b97b-4b11e7a459bb}</destination>
+		</relationship>
+	</object>
+</objects>

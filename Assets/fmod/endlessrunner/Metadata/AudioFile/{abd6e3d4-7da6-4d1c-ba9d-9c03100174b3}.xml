@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{abd6e3d4-7da6-4d1c-ba9d-9c03100174b3}">
+		<property name="assetPath">
+			<value>collsion/ESM_Crystal_Jewel_Collect_2_Futuristic_Mobile_App_Pick_Up_Sci_fi.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.80426303854875281</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f81b12c5-f51f-4518-b97b-4b11e7a459bb}</destination>
+		</relationship>
+	</object>
+</objects>

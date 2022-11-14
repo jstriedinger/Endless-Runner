@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{24407d46-9a51-49b5-a232-0992e6fecee0}">
+		<property name="assetPath">
+			<value>cube start sfx/ESM_Successful_Drop_2_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Tone_Science_UFO_Space_Mechanical.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.95142708333333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f81b12c5-f51f-4518-b97b-4b11e7a459bb}</destination>
+		</relationship>
+	</object>
+</objects>

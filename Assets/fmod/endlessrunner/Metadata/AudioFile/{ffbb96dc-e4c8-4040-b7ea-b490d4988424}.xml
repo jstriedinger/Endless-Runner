@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffbb96dc-e4c8-4040-b7ea-b490d4988424}">
+		<property name="assetPath">
+			<value>collsion/ESM_Sword_Kill_5_Sound_FX_Military_Gore_Blood.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.43020408163265306</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f81b12c5-f51f-4518-b97b-4b11e7a459bb}</destination>
+		</relationship>
+	</object>
+</objects>

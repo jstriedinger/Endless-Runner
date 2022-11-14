@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{86215207-0f3d-4d08-a973-8c0aaa8e0b22}">
+		<property name="assetPath">
+			<value>UI click/ESM_Positive_Game_Sound_15_Sound_FX_Arcade_Synth_Bling_Electronic_Casino_Kids_Mobile_Positive_Achievement_Score.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.74650793650793645</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f81b12c5-f51f-4518-b97b-4b11e7a459bb}</destination>
+		</relationship>
+	</object>
+</objects>

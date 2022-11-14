@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8f0b1070-3605-4b42-8a0d-d238229457d7}">
+		<property name="assetPath">
+			<value>collsion/ESM_Metal_Game_Chain_Legnth_Hit_Impact_Robotic_Technology_Hi_Tech_Game_Tone_Science_UFO_Space_Processed_Glitch_Hybrid_Sound_Computer.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6241458333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f81b12c5-f51f-4518-b97b-4b11e7a459bb}</destination>
+		</relationship>
+	</object>
+</objects>
