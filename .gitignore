@@ -4,7 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-/Logs/
+Logs/*
 
 # Visual Studio cache directory
 .vs/
@@ -61,3 +61,4 @@ fmod_editor.log
 /Assets/fmod/**.unsaved
 /Assets/fmod/**.cache
 /Assets/fmod/**.restore
+*.log
