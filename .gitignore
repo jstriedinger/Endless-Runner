@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+/Logs
 
 # Visual Studio cache directory
 .vs/
@@ -53,3 +54,9 @@ sysinfo.txt
 # If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
 # Log files can be ignored.
 fmod_editor.log
+
+# FMOD studio (In folder FMOD)
+/Assets/fmod/**.user
+/Assets/fmod/**.unsaved
+/Assets/fmod/**.cache
+/Assets/fmod/**.restore
